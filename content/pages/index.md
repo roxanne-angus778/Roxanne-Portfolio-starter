@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: 'Say hello to your future outgoing, bubbly creative!'
       color: text-dark
       type: TitleBlock
     subtitle: UX/UI Designer
