@@ -14,18 +14,11 @@ sections:
       - type: FeaturedItem
         title: Problem to solve
         subtitle: Pet tracking
-        text: >+
-          Available in a range of colors and patterns, we make it easy to pick
-          the perfect look for you.
-
-
-
-
-          Our faux fur is incredibly soft, plush and oh-so inviting. It's like
-          the real deal (but better)!
-
-
-
+        text: >
+          Pet Tracking is difficult. Froom managing vet appointment, walking
+          multiple pets, and trying to diagnose an illness without spending $$$
+          on Hissy's temperamental issues. How does one jumble their fur babies
+          with a busy life when there are so many apps to choose from?
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
