@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Problem to solve
-        subtitle: $ 88 – $ 176
+        subtitle: Pet tracking
         text: >+
           Available in a range of colors and patterns, we make it easy to pick
           the perfect look for you.
