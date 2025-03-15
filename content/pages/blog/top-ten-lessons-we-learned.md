@@ -1,5 +1,5 @@
 ---
-title: 'Roxanne lives just south of Austin, where pies take residence'
+title: I have lived
 slug: top-ten-lessons-we-learned
 date: '2025-01-02'
 excerpt: >-
