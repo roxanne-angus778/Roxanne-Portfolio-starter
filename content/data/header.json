@@ -13,17 +13,17 @@
     },
     "primaryLinks": [
         {
-            "label": "About Me",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Projects",
+            "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Projects",
-            "url": "/pricing",
+            "label": "About Me",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
