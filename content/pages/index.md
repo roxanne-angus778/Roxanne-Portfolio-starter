@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Roxanne SpringmaN
+      text: Roxanne Springman
       color: text-dark
       type: TitleBlock
     subtitle: UX/UI Designer
