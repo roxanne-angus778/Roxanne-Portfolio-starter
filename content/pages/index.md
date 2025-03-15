@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Roxanne Springman
-      color: text-dark
+      color: text-neutral
       type: TitleBlock
     subtitle: UX/UI Designer
     text: >
