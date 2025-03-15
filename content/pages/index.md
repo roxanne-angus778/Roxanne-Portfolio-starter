@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: UX/UI Designer
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Design means more to me than making applications visually appealing. To
+      design is to make consumer-centric products that is accessible, adaptive,
+      and of course, nice to look at.
     actions:
       - label: Case Studies
         altText: ''
