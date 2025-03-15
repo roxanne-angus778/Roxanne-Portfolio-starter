@@ -76,7 +76,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Surprise Button",
+            "label": "Instructional Design Page",
             "altText": "Sign up",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
