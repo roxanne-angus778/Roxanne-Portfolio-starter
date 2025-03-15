@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'Say hello to your future outgoing, bubbly creative!'
+      text: I make things
       color: text-dark
       type: TitleBlock
     subtitle: UX/UI Designer
