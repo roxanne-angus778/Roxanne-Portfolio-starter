@@ -80,14 +80,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button"
-        },
-        {
-            "label": "Darker Surprise Button",
-            "url": "/roxannespringman.netlify.app/Confetti/1688 X 80",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
