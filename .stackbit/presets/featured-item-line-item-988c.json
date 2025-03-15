@@ -1,0 +1,46 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "line item",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "line item"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Chunky Cotton Knit Throw",
+                "tagline": null,
+                "subtitle": "$117",
+                "text": null,
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/img-placeholder.svg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Chunky Cotton Knit Throw",
+                    "elementId": "",
+                    "styles": {
+                        "self": {
+                            "borderRadius": "medium"
+                        }
+                    }
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "styles": {
+                    "self": {
+                        "flexDirection": "row"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-line-item-988c.png"
+        }
+    ]
+}
