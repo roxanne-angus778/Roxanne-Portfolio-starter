@@ -46,7 +46,7 @@
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "left",
-                    "style": "primary",
+                    "style": "secondary",
                     "type": "Link"
                 },
                 {
