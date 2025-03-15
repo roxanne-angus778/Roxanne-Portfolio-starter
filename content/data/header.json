@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Suprise Button",
+            "label": "Darker Surprise Button",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
