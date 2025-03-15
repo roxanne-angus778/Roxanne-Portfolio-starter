@@ -49,7 +49,7 @@ sections:
             justifyContent: center
             borderStyle: dotted
       - type: FeaturedItem
-        title: Cotton Knit Throws
+        title: App Auditing
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
