@@ -51,14 +51,7 @@ topSections:
 
       If you are interested in my Instructional Design work, please look in the
       menu above. 
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/IMG_5927.JPEG
