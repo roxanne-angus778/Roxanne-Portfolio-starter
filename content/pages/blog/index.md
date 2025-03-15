@@ -52,12 +52,6 @@ topSections:
       If you are interested in my Instructional Design work, please look in the
       menu above. 
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
