@@ -1,25 +1,19 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/empathy-logo.svg"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Blog",
+            "label": "About Me",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -28,20 +22,11 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Dropdown",
+            "label": "Case Studies",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "Pupper",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -49,15 +34,15 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Gradescope for UT Faculty",
                     "url": "/",
                     "icon": "arrowRight",
-                    "iconPosition": "right",
+                    "iconPosition": "left",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Figma E-Learning",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -67,24 +52,36 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "type": "Link",
+            "label": "Passion Projects",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "label": "",
+            "altText": "Careers page",
+            "url": "/careers",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         }
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "Instructional Design Page",
             "altText": "Sign up",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
             "type": "Button"
         }
     ],
