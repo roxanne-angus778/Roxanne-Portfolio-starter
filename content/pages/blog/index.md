@@ -30,27 +30,29 @@ topSections:
     subtitle: Be in good company
     text: >
       I got my Bachelor of Science in Art's and Entertainment Technology in
-      2021. During my final year while working as a teaching asssitant, I
+      2021. During my final year while working as a teaching assistant, I
       discovered that managing the architecture of Canvas courses with visuals
-      wpould improve student learning. Instead of pursuing 3D modeing and a
-      cereer, i went on to earn my Masters of Education in Learning
-      Teachnologies. There, I found that Educational Design and Prfofessional
-      design had many overlaps that I coupd use to bridge my way into to world
-      of UX Desgin. While Consumer Mertrics may be my \[passion, you will be
+      would improve student learning. Instead of pursuing 3D modeling as my
+      career, I went on to earn my Masters of Education in Learning
+      Technologies. There, I found that Educational Design and Professional
+      Design had many overlaps that I could use to bridge my way into to world
+      of UX Design. While Consumer Metrics may be my passion, you will be
       pleased to know that I excel at Figma mockups, Information Architecture
-      generation, Presentations, and future planning.
+      generation, Presentations, and future planning. 
 
 
+      As you will find in my work, I love to lead with empathy and passion. I
+      adore spending my time with my daughter and husband, walking through state
+      parks, cooking new Asian and Mediterranean dishes, growing herbs, and
+      supporting a home for disheveled animals. 
 
 
-      I love to spend my time with my daughter and husband, walking in the
-      parks, cooking new Asian dishes, growing herbs, and supporting a home for
-      dishevels animals. I used to run the Texas Flag and UT football games, and
-      helped generate 4 days full of blood donations to We Are Blood.
+      I used to run the Texas Flag during the UT football games, and helped
+      generate 4 days full of blood donations to We Are Blood.
 
 
-      If you are interested in my Instructional Design work, please look in the
-      menu above. 
+      If you are interested in my Instructional Design work, please click the
+      menu button above.
     actions: []
     media:
       type: ImageBlock
