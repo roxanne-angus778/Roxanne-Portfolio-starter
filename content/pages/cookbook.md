@@ -12,11 +12,13 @@ sections:
           textAlign: center
     subtitle: Coming Soon
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      There are many variations of recipes out there. You dream of cooking
+      something that looks Instagram worthy, but can't figure out how to keep
+      your cereal from burning. Worry no more! In this book, you wll find
+      detailed instruction on how to do even the most complex of recipes. This
+      book will take you from a zero to pro in no time! And for the seasoned
+      cooks out there, you might just find a new recipe of two that will entice
+      that pallete.
     actions:
       - type: Button
         label: See open positions
