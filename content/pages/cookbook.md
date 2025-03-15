@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Coming Soon
+    subtitle: Coming 2027
     text: >
       There are many variations of recipes out there. You dream of cooking
       something that looks Instagram worthy, but can't figure out how to keep
