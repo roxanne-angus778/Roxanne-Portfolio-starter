@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: I make things
+      text: Roxanne SpringmaN
       color: text-dark
       type: TitleBlock
     subtitle: UX/UI Designer
