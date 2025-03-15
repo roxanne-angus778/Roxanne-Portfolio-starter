@@ -4,7 +4,7 @@ slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
-  - subtitle: This is the subtitle
+  - subtitle: ''
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
