@@ -82,7 +82,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Suprise Button",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
