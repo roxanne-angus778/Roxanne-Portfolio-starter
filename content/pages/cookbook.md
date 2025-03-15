@@ -21,7 +21,7 @@ sections:
       that pallete.
     actions:
       - type: Button
-        label: See open positions
+        label: Browse Sample Pages
         url: /
         icon: arrowRight
         iconPosition: right
