@@ -5,8 +5,7 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - subtitle: ''
-    posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
