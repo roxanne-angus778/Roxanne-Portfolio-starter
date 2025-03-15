@@ -95,13 +95,6 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Items on sale
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     items:
       - type: FeaturedItem
         title: Cotton Knit Throws
